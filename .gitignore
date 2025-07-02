@@ -1,0 +1,24 @@
+#Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+#Environment variables
+.env
+.env.local
+
+#Build output
+dist/
+build/
+
+.vscode/
+
+
+*.log
+
+#OS files 
+.DS_Store
+Thumbs.db
+
+#IDE settings
+.vscode/
